@@ -1,0 +1,9 @@
+name = "test"
+main = "src/index.ts"
+compatibility_date = "2023-04-19"
+node_compat = true
+workers_dev = false
+
+[dev]
+port = 10005
+local_protocol = "http"
